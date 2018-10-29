@@ -1,3 +1,3 @@
 # git-training
 
-Making a new commit. 
+Making a new commit.    
